@@ -1,0 +1,14 @@
+C:\Users\gusta\source\repos\introducao-dotnet-csharp\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\gusta\source\repos\introducao-dotnet-csharp\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\gusta\source\repos\introducao-dotnet-csharp\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\gusta\source\repos\introducao-dotnet-csharp\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\gusta\source\repos\introducao-dotnet-csharp\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\gusta\source\repos\introducao-dotnet-csharp\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\introducao-dotnet-csharp\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\introducao-dotnet-csharp\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\gusta\source\repos\introducao-dotnet-csharp\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\introducao-dotnet-csharp\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\gusta\source\repos\introducao-dotnet-csharp\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\gusta\source\repos\introducao-dotnet-csharp\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\gusta\source\repos\introducao-dotnet-csharp\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\gusta\source\repos\introducao-dotnet-csharp\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
